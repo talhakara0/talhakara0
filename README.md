@@ -44,6 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=talhakara0&theme=github-dark-blue&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
-</p>

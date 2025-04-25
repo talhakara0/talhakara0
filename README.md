@@ -8,7 +8,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/talha-kara-76183321b" target="_blank">
+  <a href="https://linkedin.com/in/talha-kara-76183321b" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -36,16 +36,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhakara0&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhakara0&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhakara0" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=talhakara0&theme=github-dark-blue&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
 </p>

@@ -22,23 +22,23 @@ I provide end-to-step solutions for startups and businesses, focusing on:
       <p>WiFi-based location tracking and telecommunication solution for Mobile and Desktop platforms.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🚗 E-Direksiyon</h4>
+      <h4>🚗 E-Driving</h4>
       <p>A mobile platform designed to digitalize and streamline driving education processes.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⏱️ Zaman Kumandası</h4>
+      <h4>⏱️ Time Controller</h4>
       <p>An advanced time management and planning tool for productivity enthusiasts.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>♟️ Sancak Satrancı</h4>
+      <h4>♟️ Sancak Chess</h4>
       <p>A strategic chess engine reflecting advanced logic and game development skills.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
-      <h4>🎓 Teknobot Akademi</h4>
+      <h4>🎓 Teknobot Academy</h4>
       <p>A comprehensive web and management platform built for modern educational institutions.</p>
     </td>
   </tr>
@@ -69,8 +69,8 @@ Beyond engineering, I am passionate about nurturing the next generation of tech 
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhakara0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhakara0&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---

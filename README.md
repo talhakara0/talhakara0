@@ -69,8 +69,8 @@ Beyond engineering, I am passionate about nurturing the next generation of tech 
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhakara0&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhakara0&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=talhakara0&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=talhakara0&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---

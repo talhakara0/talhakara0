@@ -36,40 +36,6 @@ class TalhaKara extends Engineer {
 | 🎨 | **UI/UX & SEO** | Intuitive interfaces and better reach for your product |
 | 🎓 | **Mentoring** | Teaching algorithms and computational thinking to new developers |
 
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 PlusPtt</h3>
-      <p>WiFi-based location tracking and telecommunication solution for mobile and desktop.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 E-Driving</h3>
-      <p>A mobile platform that digitalizes and streamlines driving education.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⏱️ Time Controller</h3>
-      <p>An advanced time management and planning tool for productivity enthusiasts.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Teknobot Academy</h3>
-      <p>A web and management platform built for modern educational institutions.</p>
-      <img src="https://img.shields.io/badge/Web-4E4E4E?style=flat-square&logo=googlechrome&logoColor=white" />
-      <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
 ## 🛠️ Tech Stack
 
 <p align="center">

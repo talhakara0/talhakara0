@@ -1,91 +1,97 @@
-# Hi, I'm Talha Kara 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Talha%20Kara&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Software%20Engineer%20%26%20Freelancer&descAlignY=58&descSize=18" alt="Talha Kara" />
+</p>
 
-### **Full-stack Software Engineer & Freelancer**
-Specializing in high-performance **Flutter** mobile applications and modern web solutions. I transform complex ideas into scalable, user-centric digital experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+apps+that+scale;Clean+architecture%2C+maintainable+code;From+idea+to+production" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20freelance-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" alt="Available for freelance" />
+  <a href="https://linkedin.com/in/talha-kara-76183321b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-### 🚀 Freelance Focus
-I provide end-to-step solutions for startups and businesses, focusing on:
-- **Scalable App Development:** Building robust mobile and web applications with a focus on long-term growth.
-- **Technical Consultancy:** Expert guidance on **Software Architecture**, ensuring clean and maintainable codebases.
-- **Digital Optimization:** Enhancing user reach through **SEO** and crafting intuitive interfaces with **UI/UX Design**.
+## 👨‍💻 About Me
 
----
+```dart
+class TalhaKara extends Engineer {
+  final role      = "Full-stack Software Engineer & Freelancer";
+  final focus     = ["Flutter", "Mobile & Desktop", "Modern Web"];
+  final strengths = ["Software Architecture", "UI/UX", "SEO"];
+  final mentoring = ["Algorithms"];
 
-### 📂 Featured Projects
+  String get mission =>
+      "Turning complex ideas into scalable, user-centric products.";
+}
+```
 
-<table width="100%">
+## 🚀 What I Offer
+
+| | Service | Details |
+|:-:|---|---|
+| 📱 | **App Development** | Robust mobile, desktop and web apps built for long-term growth |
+| 🧩 | **Technical Consultancy** | Software architecture guidance for clean, maintainable codebases |
+| 🎨 | **UI/UX & SEO** | Intuitive interfaces and better reach for your product |
+| 🎓 | **Mentoring** | Teaching algorithms and computational thinking to new developers |
+
+## 📂 Featured Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 PlusPtt</h4>
-      <p>WiFi-based location tracking and telecommunication solution for Mobile and Desktop platforms.</p>
+      <h3>📡 PlusPtt</h3>
+      <p>WiFi-based location tracking and telecommunication solution for mobile and desktop.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🚗 E-Driving</h4>
-      <p>A mobile platform designed to digitalize and streamline driving education processes.</p>
+      <h3>🚗 E-Driving</h3>
+      <p>A mobile platform that digitalizes and streamlines driving education.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⏱️ Time Controller</h4>
+      <h3>⏱️ Time Controller</h3>
       <p>An advanced time management and planning tool for productivity enthusiasts.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>♟️ Sancak Chess</h4>
-      <p>A strategic chess engine reflecting advanced logic and game development skills.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h4>🎓 Teknobot Academy</h4>
-      <p>A comprehensive web and management platform built for modern educational institutions.</p>
+      <h3>🎓 Teknobot Academy</h3>
+      <p>A web and management platform built for modern educational institutions.</p>
+      <img src="https://img.shields.io/badge/Web-4E4E4E?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" />
     </td>
   </tr>
 </table>
 
----
-
-### 🛠️ Technical Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SEO-%234E4E4E.svg?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/UI/UX%20Design-%23FF61F6.svg?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
-</p>
-
----
-
-### � Educator & Mentor
-Beyond engineering, I am passionate about nurturing the next generation of tech talent. I actively teach **Algorithms** and **Arduino** programming, helping students build a strong foundation in computational thinking and hardware interaction.
-
----
-
-### 📊 GitHub Insights
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=talhakara0&show_icons=true&theme=github_dark&hide_border=true" width="60%" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,qt,firebase,figma,git&perline=8" alt="Tech stack" />
 </p>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhakara0&theme=tokyonight&hide_border=true" width="100%" />
+  <img height="165" src="https://github-readme-stats-one.vercel.app/api?username=talhakara0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=talhakara0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+## 📫 Let's Build Something Together
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-998+-brightgreen?style=for-the-badge&logo=github" alt="Total Commits" />
-</p>
-
----
-
-### 📫 Let's collaborate on your next project!
-
-<p align="left">
-  <a href="https://linkedin.com/in/talha-kara-76183321b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  Have a project in mind? I'm open to freelance work and collaborations.<br/><br/>
+  <a href="https://linkedin.com/in/talha-kara-76183321b">
+    <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" alt="" />
 </p>

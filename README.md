@@ -8,7 +8,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available%20for%20freelance-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" alt="Available for freelance" />
-  <a href="https://linkedin.com/in/talha-kara-76183321b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolyo-talha-kara.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/talha-kara-76183321b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -53,8 +54,11 @@ class TalhaKara extends Engineer {
 
 <p align="center">
   Have a project in mind? I'm open to freelance work and collaborations.<br/><br/>
-  <a href="https://linkedin.com/in/talha-kara-76183321b">
+  <a href="https://www.linkedin.com/in/talha-kara-76183321b/">
     <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn" />
+  </a>
+  <a href="https://portfolyo-talha-kara.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
 

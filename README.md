@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Talha%20Kara&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Software%20Engineer%20%26%20Freelancer&descAlignY=58&descSize=18" alt="Talha Kara" />
+  <img src="assets/header.svg" width="100%" alt="Talha Kara - Full-stack Software Engineer &amp; Freelancer" />
 </p>
 
 <p align="center">
@@ -63,5 +63,5 @@ class TalhaKara extends Engineer {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>

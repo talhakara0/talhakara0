@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Talha Kara - Full-stack Software Engineer &amp; Freelancer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02569B"/>
+      <stop offset="1" stop-color="#13B9FD"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0H1200V185C1100 215 1000 230 880 205C760 180 660 150 540 175C420 200 320 235 200 220C120 210 60 195 0 200Z"/>
+  <path fill="#ffffff" fill-opacity="0.12" d="M0 150C140 190 260 200 400 170C540 140 640 120 780 150C920 180 1060 190 1200 160V185C1100 215 1000 230 880 205C760 180 660 150 540 175C420 200 320 235 200 220C120 210 60 195 0 200Z"/>
+  <text x="600" y="95" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700">Talha Kara</text>
+  <text x="600" y="140" text-anchor="middle" fill="#ffffff" fill-opacity="0.9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Full-stack Software Engineer &amp; Freelancer</text>
+</svg>
